@@ -1,3 +1,3 @@
 Meu primeiro sistema no GIT
 
-AlteraÃ§Ã£o no readme para melhor descrever a alteraÃ§Ã£o
+Alteração no readme para melhor descrever a alteração
